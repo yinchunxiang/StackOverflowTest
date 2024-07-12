@@ -1,8 +1,0 @@
-//
-// Created by Chunxiang Yin on 12/7/24.
-//
-
-#ifndef STACKOVERFLOWTEST_SERVER_H
-#define STACKOVERFLOWTEST_SERVER_H
-
-#endif //STACKOVERFLOWTEST_SERVER_H
